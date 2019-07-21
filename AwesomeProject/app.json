@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "checknewwatch",
+    "slug": "checknewwatch",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./Src/Images/splash.png",
+    "splash": {
+      "image": "./Src/Images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.checknewwatch.android",
+	  "permissions": [],
+	  "versionCode": 5
+    },
+    "description": ""
+  }
+}
